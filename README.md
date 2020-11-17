@@ -17,4 +17,4 @@ And unzip the main .zip having the rest of zipped files of the imange in the sam
 
 ![Image 2](https://github.com/sr3888/GKC-Public-Repository/blob/master/animations%201.png)
 
-And import the package file inside for the animations.
+And import the package file inside for the animations. After import it, close and open unity, and all the animations are assigned automatically.
