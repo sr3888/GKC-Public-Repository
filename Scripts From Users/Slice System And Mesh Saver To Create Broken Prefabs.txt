@@ -1,0 +1,28 @@
+Very useful to create a simple broken version of a gameObject using only what is in GKC SliceSystem + MeshSaver (https://github.com/pharan/Unity-MeshSaver) as an alternative, of course using rayfire or destroyIt would be better.
+
+In short the steps I use are as follows:
+========================================
+1. Download and install so that later we can save sliced ​​mesh at runtime as an asset.
+
+2. Add "Surface To Slice" Component to the game object that you want to make a broken version of.
+
+3. Start Play and Slice the gameobject as desired, using the melee slice system, or it could also use the slicer of the ezy slice.
+
+4. Pause, and Save all the active "..._Hull" gameObjects in the Hierarchy by selecting all and saving each one by accessing "Save Mesh.." in the Mesh Filter component.
+
+5. create broken version gameObject with sliced ​​mesh that was saved earlier and create a prefab.
+   reference : Game Kit Controller>Prefabs>Others>Meshes>brokenCrate Prefab
+
+6. Assign the broken prefab to the crate component in gameObject.
+   reference : Game Kit Controller>Prefabs>PickUps>Object To Drop Pickups>Crates>Crate Prefab
+
+And this is an example of the result:
+
+https://streamable.com/fd5txq
+
+https://streamable.com/ahnmqp
+
+
+Link to the conversation on the discord channel:
+
+https://discord.com/channels/504429042825429023/789527516082864128/897706213754695701
