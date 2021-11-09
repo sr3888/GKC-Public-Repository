@@ -14,7 +14,8 @@ To download the contents of this repository,  click the 'CODE' button above and 
 
 ## Step 2 
 
-After downloading and extracting the repository contents to your computer, click the main .zip file (as shown in picture below), this will merge all partial zip files and extract it to a Unity package file (a file with a .unitypackage extension):
+After downloading and extracting the repository contents to your computer, click the main .zip file (see picture below).
+This will merge all partial zip files and extract the contents to a folder containing a single Unity package file (a file with a .unitypackage extension):
 
 ![Image 2](https://github.com/sr3888/GKC-Public-Repository/blob/master/animations%201.png)
 
