@@ -10,7 +10,7 @@ Follow the instructions below to include them into your GKC project:
 
 To download the contents of this repository,  click the 'CODE' button above and choose the option 'Download ZIP'
 
-![Image 1](https://github.com/sr3888/GKC-Public-Repository/blob/master/animations%202.png)
+
 
 ## Step 2 
 
