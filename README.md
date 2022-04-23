@@ -2,6 +2,8 @@
 
 This repository contains resources by [Mixamo](https://www.mixamo.com/#/) and others which are freely available on the web and which where used as placeholders in the demo scenes of the GKC action system.  
 
+New custom integration of mirror and GKC in progress made by the user EdgarAlenPwn on discord.
+
 Link to discord: https://discord.gg/kUpeRZ8
 
 Follow the instructions below to include them into your GKC project:
