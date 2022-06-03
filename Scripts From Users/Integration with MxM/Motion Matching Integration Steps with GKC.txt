@@ -1,0 +1,25 @@
+it's been a while since I was able to get back to my laptop. GKC with MxM bridge is still WIP, not all features are covered and tested yet , just to give a big picture and what possibilities can be achieved from these two assets  and also as a starting point before converting the animation used to MxM.. This example only uses the basic settings of both assets and assume that both are installed properly.
+
+Notes :
+1. it is recommended to try it in a new project.
+2. or do a backup before trying.
+3. Please expect a glitch it's still WIP though 🙇 , because the script has not been optimized enough and not all functions and features of GKC have been implemented.
+4. The bridge script is made as simple as possible at this time so feel free to use or modify it.
+5. In trying it, it may be felt that the movement of the character is not as smooth as expected, that's because MxM also performs calculations for every animation in Animator. So the lighter the animator the quality will increase. as this can be used as a first step before converting any used animation to MxM Tag/Event.
+
+this is what I can share so far, while I plan to continue it again in the latest GKC version later.
+
+https://www.youtube.com/watch?v=LSr8H24JLao
+
+
+one of our friends here asked me about MxM Slide Event, I just remembered I didn't include it in yesterday's video, my apologies for that 🙏 .
+
+I think it's better to discuss it here, 
+so here's a short clip for the configuration. where in the current GKCMxMbridge, the MxMSlideEvent function can be called through the GKC Event system. by calling "GKCMxMBridge.activateMxMSliding" on GKC event trigger system.
+for this step I assume the steps in the previous video have been applied.
+
+https://www.youtube.com/watch?v=IoO_hl_Afj0
+
+This method is very likely to be used by other MxMEvent in the future. so instead of calling the animator for GKC playerAction, it's calling MxMEvent. but of course improvement is needed for good results and match the desired action.
+
+Sorry if it's TLDR, 😉 and have a good day
