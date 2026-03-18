@@ -32,6 +32,8 @@ With your project opened in Unity, drag and drop the extracted .unitypackage fil
 There are 2 additional packages included in this repository (Ezy Slice and Limb Hacker).
 Follow the same procedure as in Step 3 to import them to your project.
 
+Here a direct link to the animations unitypackage file, without need to unzip it, to import directly into unity: https://drive.google.com/file/d/1lr6ReFs19bJu81B4t8sWfqMJqAxfzwwW/view?usp=sharing
+
 ## Step 5 (⚠️ Important! ⚠️)
 
 Close the Unity editor and re-open your project. This will assign all the new animations automatically. 
